@@ -1,14 +1,14 @@
 
 # Hi, I'm Ney Khant 👋
 
-I'm a passionate **Frontend Developer** specializing in building modern, responsive, and user-friendly web applications.
+I'm a passionate **Web Developer** specializing in building modern, responsive, and user-friendly web applications.
 
 ## 🚀 Technologies & Tools
 
 - **Languages:** JavaScript (ES6+), TypeScript  
-- **Frameworks & Libraries:** React.js, Next.js  
-- **Styling:** Tailwind CSS, CSS Modules, Styled Components  
-- **State Management:** React Context, Redux (basic)  
+- **Frameworks & Libraries:** React.js, Next.js, Node.js, Express.js, MongoDB  
+- **Styling:** Tailwind CSS, CSS Modules, Styled Components, AntDesign, MUI, Shadcn  
+- **State Management:** React Context, Redux (basic), RTK Query, React Query  
 - **Tools:** Git, VS Code, npm/yarn, Chrome DevTools
 
 ## 🌱 What I'm Learning
