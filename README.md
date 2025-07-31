@@ -5,7 +5,10 @@ I'm a passionate **Web Developer** specializing in building modern, responsive, 
 
 ## 🚀 Technologies & Tools
 
-- **Languages:** JavaScript (ES6+), TypeScript  
+- **Languages:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-%230078D6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+ 
 - **Frameworks & Libraries:** React.js, Next.js, Node.js, Express.js, MongoDB  
 - **Styling:** Tailwind CSS, CSS Modules, Styled Components, AntDesign, MUI, Shadcn  
 - **State Management:** React Context, Redux (basic), RTK Query, React Query  
